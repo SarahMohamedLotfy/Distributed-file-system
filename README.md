@@ -1,6 +1,8 @@
 # Distributed-file-system-using-python-ZMQ-for-communication-between-processes
 Distributed-file-system-using-python-ZMQ-for-communication-between-processes
 
+System description: https://drive.google.com/file/d/1y9fFUAAEp39e_W7xfgvgsQZAzhfPldbq/view?usp=sharing
+
 TYDFS is a centralized distributed system. TYDFS has 2 types of machine
 nodes. First, the Master Tracker node. This node has a look-up table. The
 look-up table columns are (user id, file name, data node number, file path on
