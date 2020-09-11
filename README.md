@@ -21,3 +21,14 @@ nodes that have the data files.
 ![5](https://user-images.githubusercontent.com/48661473/92958205-a7d26080-f41e-11ea-9f35-d8446024fc21.jpg)
 
 ![6](https://user-images.githubusercontent.com/48661473/92958255-bfa9e480-f41e-11ea-81a3-c9cd5c50adb0.JPG)
+
+To run the code 
+Open 4 terminals to test upload and download (  5314, 5316) ports of the master
+
+python client.py 5314 sample.mp4 upload
+
+python client.py 5316 maa.mp4 download
+
+python server.py
+
+python master.py
