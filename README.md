@@ -8,4 +8,4 @@ that data node, is data node alive). We will assume the all the files will be
 mp4 files. Second, the Data Keeper nodes. Data Keeper nodes are the actual
 nodes that have the data files.
 
-
+![1](https://user-images.githubusercontent.com/48661473/92957938-3db9bb80-f41e-11ea-8dab-9576b253ae82.jpg)
